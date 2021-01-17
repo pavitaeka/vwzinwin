@@ -11,4 +11,4 @@ copy host address from https://dashboard.ngrok.com/status/tunnels
 
 default username : runneradmin
 
-default password : @dikaa
+default password : Adikaa26
